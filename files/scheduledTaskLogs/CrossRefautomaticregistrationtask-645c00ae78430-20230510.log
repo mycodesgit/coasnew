@@ -1,0 +1,12 @@
+[2023-05-10 20:38:06] https://cpsujournals.com
+[2023-05-10 20:38:06] [Notice] Task process started.
+[2023-05-10 20:38:31] [Warning] Submission was not successful! The DOI registration server returned an error: '1 - HTTP/1.1 100 Continue
+
+HTTP/1.1 302 Found
+content-length: 0
+location: https://www.crossref.org/deprecated/
+cache-control: no-cache
+connection: close
+
+'.
+[2023-05-10 20:38:35] [Notice] Task process stopped.

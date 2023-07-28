@@ -1,0 +1,6 @@
+[2023-05-12 08:29:18] https://cpsujournals.com
+[2023-05-12 08:29:18] [Notice] Task process started.
+[2023-05-12 08:29:18] [Error] The directory /home/u841447435/domains/cpsucoas.com/public_html/files/usageStats/processing is not empty. This could indicate a previously failed process, or a concurrently running process. This file will be automatically reprocessed if you are also using scheduledTasksAutoStage.xml, otherwise you will need to manually move any orphaned files in the processing directory back into the stage directory.
+[2023-05-12 08:29:19] [Notice] File /home/u841447435/domains/cpsucoas.com/public_html/files/usageStats/processing/usage_events_20230510.log was processed and archived.
+[2023-05-12 08:29:19] [Notice] File /home/u841447435/domains/cpsucoas.com/public_html/files/usageStats/processing/usage_events_20230511.log was processed and archived.
+[2023-05-12 08:29:19] [Notice] Task process stopped.

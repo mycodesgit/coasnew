@@ -1,0 +1,20 @@
+[2023-04-29 15:51:17] https://cpsujournals.com
+[2023-04-29 15:51:17] [Notice] Task process started.
+[2023-04-29 15:51:43] [Warning] Submission was not successful! The DOI registration server returned an error: '1 - HTTP/1.1 100 Continue
+
+HTTP/1.1 401 Unauthorized
+date: Sat, 29 Apr 2023 15:51:43 GMT
+content-type: text/html
+content-length: 112
+cache-control: no-cache
+www-authenticate: Basic realm="http_frontend"
+x-rate-limit-limit: 50
+x-rate-limit-interval: 1s
+permissions-policy: interest-cohort=()
+connection: close
+
+<html><body><h1>401 Unauthorized</h1>
+You need a valid user and password to access this content.
+</body></html>
+'.
+[2023-04-29 15:51:47] [Notice] Task process stopped.
